@@ -10,7 +10,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="" />
+    <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/02.python模块/01.内置模块.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/01.ES安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/01.ES安装.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/02.es介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/02.es介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/03.es基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/03.es基本使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/04.中文分词检索.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/04.中文分词检索.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/05.python使用ES.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/05.python使用ES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/06.ES复杂类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02.数据库/03.Elasticsearch/06.ES复杂类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/01.K8S概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/01.K8S概述.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/02.K8S架构.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/02.K8S架构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/03.K8S工作原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/03.K8S工作原理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/04.K8S生产环境部署的两种方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/01.01_Kubernetes概述/04.K8S生产环境部署的两种方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/01.k8s集群架构两种模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/01.k8s集群架构两种模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/02.初始化集群操作系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/02.初始化集群操作系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/03.三台机器部署单master集群.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/03.三台机器部署单master集群.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/04.部署WebUI和DNS工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/02.02_二进制搭建K8s集群/04.部署WebUI和DNS工具.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04.容器/02.K8S/03.03_kubeadm部署K8s/01.使用kubeadm快速部署一个k8s集群.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04.容器/02.K8S/03.03_kubeadm部署K8s/01.使用kubeadm快速部署一个k8s集群.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +88,7 @@
       <workItem from="1613122395947" duration="1600000" />
       <workItem from="1613126522396" duration="11669000" />
       <workItem from="1613204125688" duration="6580000" />
+      <workItem from="1613217014778" duration="3773000" />
     </task>
     <servers />
   </component>
@@ -100,22 +120,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1098" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612842168887" />
-    <state width="1515" height="176" key="GridCell.Tab.0.bottom" timestamp="1613216049758">
+    <state width="1515" height="132" key="GridCell.Tab.0.bottom" timestamp="1613224880429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613216049758" />
-    <state width="1515" height="176" key="GridCell.Tab.0.center" timestamp="1613216049758">
+    <state width="1515" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613224880429" />
+    <state width="1515" height="132" key="GridCell.Tab.0.center" timestamp="1613224880429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613216049758" />
-    <state width="1515" height="176" key="GridCell.Tab.0.left" timestamp="1613216049758">
+    <state width="1515" height="132" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613224880429" />
+    <state width="1515" height="132" key="GridCell.Tab.0.left" timestamp="1613224880429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613216049758" />
-    <state width="1515" height="176" key="GridCell.Tab.0.right" timestamp="1613216049758">
+    <state width="1515" height="132" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613224880429" />
+    <state width="1515" height="132" key="GridCell.Tab.0.right" timestamp="1613224880429">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613216049758" />
+    <state width="1515" height="132" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613224880429" />
     <state x="107" y="8" key="SettingsEditor" timestamp="1613057336182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

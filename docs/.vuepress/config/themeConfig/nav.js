@@ -10,7 +10,7 @@ module.exports = [
         // text: 'Python文章',
         items: [
           { text: 'Python基础', link: '/pages/2270e1/' },
-          { text: 'Python模块', link: '/pages/2f891d/' },
+          { text: 'Python模块', link: '/pages/3180c1/' },
           { text: 'Django', link: '/pages/7caa24/' },
           { text: 'Flask', link: '/pages/4fde5e/' },
         ],
