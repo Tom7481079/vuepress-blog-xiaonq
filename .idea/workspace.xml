@@ -10,12 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03.Linux/01.Linux入门/02.VMware安装操作系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/01.Linux入门/02.VMware安装操作系统.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/99.其他/01.简历/01.简历展示.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/99.其他/01.简历/01.简历展示.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/99.其他/01.简历/99.教学管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/99.其他/01.简历/99.教学管理.md" afterDir="false" />
-    </list>
+    <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +68,7 @@
       <workItem from="1613033054684" duration="24494000" />
       <workItem from="1613122395947" duration="1600000" />
       <workItem from="1613126522396" duration="11669000" />
-      <workItem from="1613204125688" duration="5506000" />
+      <workItem from="1613204125688" duration="5995000" />
     </task>
     <servers />
   </component>
