@@ -23,7 +23,7 @@ module.exports = [
     items: [
       { text: 'MySQL', link: '/pages/99b41b/' },
       { text: 'Redis', link: '/pages/4d3a23/' },
-      { text: 'Elasticsearch', link: '/pages/aa3cd0/' },
+      { text: 'Elasticsearch', link: '/pages/b66577/' },
       { text: 'MongoDB', link: '/pages/c49dd1/' },
     ],
   },
@@ -45,7 +45,7 @@ module.exports = [
     link: '/container/',
     items: [
       { text: 'Docker', link: '/pages/bdf1a4/' },
-      { text: 'K8S', link: '/pages/2df239/' },
+      { text: 'K8S', link: '/pages/4883e1/' },
 
     ],
   },
@@ -71,13 +71,20 @@ module.exports = [
     text: '面试题',
     link: '/interview/',
     items: [
-      { text: 'Python基础', link: '/pages/90d2c7/' },
-      { text: 'MySQL', link: '/pages/172127/' },
-      { text: 'Redis', link: '/pages/42acad/' },
-      { text: '算法', link: '/pages/98c7a6/' },
-      { text: '项目技术点', link: '/pages/30f240/' },
-      { text: '项目部署', link: '/pages/89c493/' },
-      { text: '面试其他问题', link: '/pages/847a96/' },
+      { text: '01.Python基础', link: '/pages/90d2c7/' },
+      { text: '02.MySQL', link: '/pages/172127/' },
+      { text: '03.Redis', link: '/pages/42acad/' },
+      { text: '04.算法', link: '/pages/98c7a6/' },
+      { text: '05.项目技术点', link: '/pages/30f240/' },
+      { text: '06.项目部署', link: '/pages/89c493/' },
+      { text: '07.面试其他问题', link: '/pages/0098e9/' },
     ],
   },
+  {
+    text: '其他',
+    link: '/other/',
+    items: [
+      { text: '01.简历', link: '/pages/06f84e/' },
+    ],
+  }
 ]
