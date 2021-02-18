@@ -33,10 +33,10 @@ module.exports = [
     items: [
       { text: 'Linux基础', link: '/pages/776ad4/' },
       { text: 'Linux高级', link: '/pages/3e5e47/' },
-      { text: 'ansible', link: '/pages/0dda3d/' },
-      { text: 'zabbix', link: '/pages/94bcd2/' },
       { text: 'Nginx', link: '/pages/7bd748/' },
       { text: 'KeepAlive', link: '/pages/05a96c/' },
+      { text: 'ansible', link: '/pages/0dda3d/' },
+      { text: 'zabbix', link: '/pages/94bcd2/' },
       { text: 'Shell', link: '/pages/8d0bd5/' },
     ],
   },
@@ -53,10 +53,10 @@ module.exports = [
     text: '前端',
     link: '/web/',
     items: [
+      { text: 'VUE', link: '/pages/f81ce4/' },
       { text: 'HTML', link: '/pages/b767c6/' },
       { text: 'CSS', link: '/pages/bf6f45/' },
       { text: 'JavaScript', link: '/pages/6ea682/' },
-      { text: 'VUE', link: '/pages/f81ce4/' },
     ],
   },
   {

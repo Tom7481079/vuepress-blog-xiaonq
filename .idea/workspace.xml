@@ -12,6 +12,55 @@
   <component name="ChangeListManager">
     <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config/themeConfig/nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/01.django介绍.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/02.环境安装.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/03.创建django项目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/04.路由配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/05.请求与相应.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/06.类视图.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/07.中间件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/08.cookie.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/09.session.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/10.配置数据库.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/11.定义模型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/12.一对多.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/13.多对多.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/14.一大波Model操作.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/15.F()和Q()查询.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/16.aggregate和annotate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/17.django-admin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214201207490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214201831468.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214204226395.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214204504660.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214212742257.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214215013077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210214215125468.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/01.python/03.django/assets/image-20210215211340365.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/01.ansible简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/01.ansible简介.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/02.ansible安装配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/02.ansible安装配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/03.Inventory(主机清单).md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/03.Inventory(主机清单).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/04.ansible基本使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/04.ansible基本使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/05.ansible常用模块.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/05.ansible常用模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/06.playbook语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/06.playbook语法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/07.自动部署Tomcat.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/07.自动部署Tomcat.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/08.playbook文件复用.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/08.playbook文件复用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/09.playbook条件循环.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/09.playbook条件循环.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/10.角色(Role).md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/10.角色(Role).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/99.部署lnmp.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/99.部署lnmp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/assets/image-20210205194333820.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/assets/image-20210205194333820.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/assets/image-20210205195902212.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/assets/image-20210205195902212.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/assets/image-20210207100907372.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/assets/image-20210207100907372.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/assets/image-20210207103318878.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/assets/image-20210207103318878.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/assets/image-20210207103632220.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/assets/image-20210207103632220.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/assets/image-20210207151422364.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/assets/image-20210207151422364.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/03.ansible/roles_nginx_php..zip" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/05.ansible/roles_nginx_php..zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/04.zabbix/01.zabbix基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/06.zabbix/01.zabbix基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/05.Nginx/01.nginx基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/03.Nginx/01.nginx基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/03.Linux/06.Keepalive/01.keepalive基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03.Linux/04.Keepalive/01.keepalive基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/99.其他/01.简历/03.如何找项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/99.其他/01.简历/03.如何找项目.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +121,8 @@
       <workItem from="1613126522396" duration="11669000" />
       <workItem from="1613204125688" duration="6580000" />
       <workItem from="1613217014778" duration="10500000" />
-      <workItem from="1613463185338" duration="1908000" />
+      <workItem from="1613463185338" duration="2960000" />
+      <workItem from="1613481555371" duration="6917000" />
     </task>
     <servers />
   </component>
@@ -104,22 +154,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1098" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612842168887" />
-    <state width="1515" height="149" key="GridCell.Tab.0.bottom" timestamp="1613480226608">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1613616494146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613480226608" />
-    <state width="1515" height="149" key="GridCell.Tab.0.center" timestamp="1613480226607">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613616494146" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1613616494146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="149" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613480226607" />
-    <state width="1515" height="149" key="GridCell.Tab.0.left" timestamp="1613480226607">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613616494146" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1613616494146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="149" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613480226607" />
-    <state width="1515" height="149" key="GridCell.Tab.0.right" timestamp="1613480226608">
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613616494146" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1613616494146">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="149" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613480226608" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613616494146" />
     <state x="107" y="8" key="SettingsEditor" timestamp="1613057336182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
