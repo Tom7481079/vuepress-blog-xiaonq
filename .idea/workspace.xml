@@ -13,12 +13,9 @@
     <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.python/01.python基础/07.协程.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.python/01.python基础/07.协程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01.python/01.python基础/09.装饰器.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01.python/01.python基础/09.装饰器.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/05.前端/04.VUE/06.axios封装.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.前端/04.VUE/06.axios封装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/99.其他/01.简历/03.如何找项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/99.其他/01.简历/03.如何找项目.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/99.其他/01.简历/04.写好A简历.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/99.其他/01.简历/04.写好A简历.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/99.其他/01.简历/99.教学管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/99.其他/01.简历/99.教学管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.前端/04.VUE/09.图书管理前端.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/05.前端/04.VUE/10.ant-design-vue.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../aaa/opwf-front" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -90,7 +87,7 @@
       <workItem from="1613217014778" duration="10500000" />
       <workItem from="1613463185338" duration="2960000" />
       <workItem from="1613481555371" duration="18150000" />
-      <workItem from="1613660005932" duration="6687000" />
+      <workItem from="1613660005932" duration="10412000" />
     </task>
     <servers />
   </component>
@@ -118,26 +115,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="608" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612863704919" />
-    <state x="1098" y="203" key="FileChooserDialogImpl" timestamp="1613641620343">
+    <state x="1098" y="203" key="FileChooserDialogImpl" timestamp="1613911436374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1098" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613641620343" />
-    <state width="1515" height="268" key="GridCell.Tab.0.bottom" timestamp="1613745899415">
+    <state x="1098" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1613911436374" />
+    <state width="1515" height="346" key="GridCell.Tab.0.bottom" timestamp="1613916611808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613745899415" />
-    <state width="1515" height="268" key="GridCell.Tab.0.center" timestamp="1613745899415">
+    <state width="1515" height="346" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613916611808" />
+    <state width="1515" height="346" key="GridCell.Tab.0.center" timestamp="1613916611808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613745899415" />
-    <state width="1515" height="268" key="GridCell.Tab.0.left" timestamp="1613745899415">
+    <state width="1515" height="346" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613916611808" />
+    <state width="1515" height="346" key="GridCell.Tab.0.left" timestamp="1613916611808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613745899415" />
-    <state width="1515" height="268" key="GridCell.Tab.0.right" timestamp="1613745899415">
+    <state width="1515" height="346" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613916611808" />
+    <state width="1515" height="346" key="GridCell.Tab.0.right" timestamp="1613916611808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613745899415" />
+    <state width="1515" height="346" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613916611808" />
     <state x="107" y="8" key="SettingsEditor" timestamp="1613057336182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
