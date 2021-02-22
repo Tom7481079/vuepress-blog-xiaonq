@@ -11,11 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d27b93e0-73bb-45d8-a5c1-b04c8bf65a92" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.前端/04.VUE/06.axios封装.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/05.前端/04.VUE/06.axios封装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.前端/04.VUE/09.图书管理前端.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/05.前端/04.VUE/10.ant-design-vue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/07.面试题/02.MySql/03.MySQL索引.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/07.面试题/02.MySql/03.MySQL索引.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,7 @@
       <workItem from="1613217014778" duration="10500000" />
       <workItem from="1613463185338" duration="2960000" />
       <workItem from="1613481555371" duration="18150000" />
-      <workItem from="1613660005932" duration="10412000" />
+      <workItem from="1613660005932" duration="11077000" />
     </task>
     <servers />
   </component>
