@@ -21,7 +21,7 @@ module.exports = [
     text: '数据库',
     link: '/db/',
     items: [
-      { text: 'MySQL', link: '/pages/99b41b/' },
+      { text: 'MySQL', link: '/pages/1cbbb7/' },
       { text: 'Redis', link: '/pages/4d3a23/' },
       { text: 'Elasticsearch', link: '/pages/b66577/' },
       { text: 'MongoDB', link: '/pages/c49dd1/' },
