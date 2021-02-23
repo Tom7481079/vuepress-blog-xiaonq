@@ -75,7 +75,7 @@ module.exports = {
   footer: {
     // 页脚信息
     createYear: 2019, // 博客创建年份
-    copyrightInfo: 'Evan Xu | MIT License ', // 博客版权信息，支持a标签
+    copyrightInfo: "<span style='font-weight: bold;'>肖乃强 技术博客</span> <a href='https://beian.miit.gov.cn/'>京ICP备2021005373号</a>", // 博客版权信息，支持a标签
   },
   htmlModules // 插入hmtl(广告)模块
 }

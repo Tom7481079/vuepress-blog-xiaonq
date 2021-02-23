@@ -4,7 +4,7 @@
       <img
         :src="blogger.avatar"
         alt="头像"
-        title="我好看吗"
+        title="道之所在虽千万人吾往矣"
       />
     </div>
     <div
