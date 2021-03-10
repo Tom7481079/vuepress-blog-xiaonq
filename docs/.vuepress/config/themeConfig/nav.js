@@ -13,6 +13,7 @@ module.exports = [
           { text: 'Python模块', link: '/pages/3180c1/' },
           { text: 'Django', link: '/pages/7caa24/' },
           { text: 'Flask', link: '/pages/4fde5e/' },
+          { text: 'SYL', link: '/pages/bfd937/' },
         ],
       },
     ],
